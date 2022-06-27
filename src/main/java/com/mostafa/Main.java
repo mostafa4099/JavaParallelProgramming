@@ -1,4 +1,4 @@
-package org.mostafa;
+package com.mostafa;
 
 /**
  * @author Md. Golam Mostafa | mostafa.sna@gmail.com
