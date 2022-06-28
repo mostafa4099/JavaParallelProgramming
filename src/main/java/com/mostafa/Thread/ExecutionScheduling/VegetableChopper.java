@@ -1,8 +1,8 @@
-package com.mostafa.ExecutionScheduling;
+package com.mostafa.Thread.ExecutionScheduling;
 
 /**
  * @author Md. Golam Mostafa | mostafa.sna@gmail.com
- * @File com.mostafa.ExecutionScheduling.VegetableChopper.java: JavaParallelProgramming
+ * @File VegetableChopper.java: JavaParallelProgramming
  * @CreationDate 6/27/2022 5:06 PM
  */
 public class VegetableChopper extends Thread{

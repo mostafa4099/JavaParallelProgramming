@@ -1,8 +1,8 @@
-package com.mostafa.DaemonThread;
+package com.mostafa.Thread.DaemonThread;
 
 /**
  * @author Md. Golam Mostafa | mostafa.sna@gmail.com
- * @File com.mostafa.ExecutionScheduling.VegetableChopper.java: JavaParallelProgramming
+ * @File VegetableChopper.java: JavaParallelProgramming
  * @CreationDate 6/27/2022 5:06 PM
  */
 public class KitchenCleaner extends Thread{

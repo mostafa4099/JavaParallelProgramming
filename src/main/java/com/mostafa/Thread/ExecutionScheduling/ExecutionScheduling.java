@@ -1,8 +1,8 @@
-package com.mostafa.ExecutionScheduling;
+package com.mostafa.Thread.ExecutionScheduling;
 
 /**
  * @author Md. Golam Mostafa | mostafa.sna@gmail.com
- * @File com.mostafa.ExecutionScheduling.ExecutionScheduling.java: JavaParallelProgramming
+ * @File ExecutionScheduling.java: JavaParallelProgramming
  * @CreationDate 6/27/2022 5:11 PM
  */
 public class ExecutionScheduling {

@@ -1,8 +1,8 @@
-package com.mostafa.ThreadLifeCycle;
+package com.mostafa.Thread.ThreadLifeCycle;
 
 /**
  * @author Md. Golam Mostafa | mostafa.sna@gmail.com
- * @File com.mostafa.ThreadLifeCycle.Chef.java: JavaParallelProgramming
+ * @File Chef.java: JavaParallelProgramming
  * @CreationDate 6/28/2022 12:19 PM
  */
 public class Chef extends Thread{

@@ -1,8 +1,8 @@
-package com.mostafa.Runnable;
+package com.mostafa.Thread.Runnable;
 
 /**
  * @author Md. Golam Mostafa | mostafa.sna@gmail.com
- * @File com.mostafa.ThreadLifeCycle.ThreadLifeCycle.java: JavaParallelProgramming
+ * @File ThreadLifeCycle.java: JavaParallelProgramming
  * @CreationDate 6/28/2022 12:18 PM
  */
 public class RunnableLifeCycle {
