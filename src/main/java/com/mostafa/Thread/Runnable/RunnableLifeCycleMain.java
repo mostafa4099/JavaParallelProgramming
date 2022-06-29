@@ -5,7 +5,7 @@ package com.mostafa.Thread.Runnable;
  * @File ThreadLifeCycle.java: JavaParallelProgramming
  * @CreationDate 6/28/2022 12:18 PM
  */
-public class RunnableLifeCycle {
+public class RunnableLifeCycleMain {
     public static void main(String[] args) throws Exception{
         System.out.println("Main Chef started & requesting Helper Chef's help.");
 

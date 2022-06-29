@@ -1,11 +1,11 @@
-package com.mostafa.MutualExclusion.SynchronizedBlock;
+package com.mostafa.Mutex.SynchronizedBlock;
 
 /**
  * @author Md. Golam Mostafa | mostafa.sna@gmail.com
  * @File ExecutionScheduling.java: JavaParallelProgramming
  * @CreationDate 6/27/2022 5:11 PM
  */
-public class SynchronizedStatement {
+public class SynchronizedStatementMain {
     public static void main(String[] args) throws Exception {
         Thread shopper1 = new Shopper();
         Thread shopper2 = new Shopper();

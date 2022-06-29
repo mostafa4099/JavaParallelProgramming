@@ -5,7 +5,7 @@ package com.mostafa.Thread.ExecutionScheduling;
  * @File ExecutionScheduling.java: JavaParallelProgramming
  * @CreationDate 6/27/2022 5:11 PM
  */
-public class ExecutionScheduling {
+public class ExecutionSchedulingMain {
     public static void main(String[] args) throws Exception {
         //First thread initialize
         VegetableChopper first = new VegetableChopper("First");

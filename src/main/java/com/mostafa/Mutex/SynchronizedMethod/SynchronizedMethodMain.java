@@ -1,11 +1,11 @@
-package com.mostafa.MutualExclusion.MutualExclusion;
+package com.mostafa.Mutex.SynchronizedMethod;
 
 /**
  * @author Md. Golam Mostafa | mostafa.sna@gmail.com
  * @File ExecutionScheduling.java: JavaParallelProgramming
  * @CreationDate 6/27/2022 5:11 PM
  */
-public class MutualExclusion {
+public class SynchronizedMethodMain {
     public static void main(String[] args) throws Exception {
         Thread shopper1 = new Shopper();
         Thread shopper2 = new Shopper();

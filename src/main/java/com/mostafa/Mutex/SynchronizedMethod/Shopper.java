@@ -1,4 +1,4 @@
-package com.mostafa.MutualExclusion.SynchronizedMethod;
+package com.mostafa.Mutex.SynchronizedMethod;
 
 /**
  * @author Md. Golam Mostafa | mostafa.sna@gmail.com

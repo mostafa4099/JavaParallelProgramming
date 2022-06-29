@@ -1,4 +1,4 @@
-package com.mostafa.MutualExclusion.AtomicVariable;
+package com.mostafa.Mutex.AtomicVariable;
 
 import java.util.concurrent.atomic.AtomicInteger;
 

@@ -1,4 +1,4 @@
-package com.mostafa.MutualExclusion.MutualExclusion;
+package com.mostafa.Mutex.MutualExclusion;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;

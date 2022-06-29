@@ -1,4 +1,4 @@
-package com.mostafa.MutualExclusion.DataRace;
+package com.mostafa.Mutex.DataRace;
 
 /**
  * @author Md. Golam Mostafa | mostafa.sna@gmail.com
