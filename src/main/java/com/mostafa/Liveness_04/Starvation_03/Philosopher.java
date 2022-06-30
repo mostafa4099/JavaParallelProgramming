@@ -8,6 +8,9 @@ import java.util.concurrent.locks.Lock;
  * @CreationDate 6/27/2022 5:06 PM
  */
 public class Philosopher extends Thread {
+    // Starvation describes a situation where a thread is unable to gain regular access to shared resources
+    // and is unable to make progress.
+    // This happens when shared resources are made unavailable for long periods by "greedy" threads.
     private static Lock firstChopstick, secondChopstick;
     private static int sushiCount = 500000;
 
