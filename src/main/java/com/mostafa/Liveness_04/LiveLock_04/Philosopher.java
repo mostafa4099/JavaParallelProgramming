@@ -35,7 +35,7 @@ public class Philosopher extends Thread {
                 System.out.println(this.getName() + " released their first chopstick.");
                 firstChopstick.unlock();
 
-                //solve livelock problem
+                //Randomness solve the livelock problem
                 try {
                     Thread.sleep(rps.nextInt(3));
                 } catch (InterruptedException e) {
